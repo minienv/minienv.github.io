@@ -2,4 +2,4 @@ theme: jekyll-theme-architect
 title: minienv
 description: Run small&#44; personal docker compose environments on demand for web-based&#44; no-install developer tutorials and training
 repository: minienv/minienv.github.io
-repository_link: https://github.com/minienv/minienv
+repository_link: https://github.com/minienv
