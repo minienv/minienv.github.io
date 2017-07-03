@@ -19,7 +19,3 @@ Node.js to MongoDB, Swift to PostgreSQL, or a Jupyter notebook to Apache Spark?
 minienv was created to help make it easier to deliver sample applications that connect to databases and other backend
 services and APIs. If you are developing these types of sample applications and looking for a way to make them more accessible
 to developers Docker Compose and minienv may be able to help!
-
-## Why Docker Compose?
-
-Work in progress...
