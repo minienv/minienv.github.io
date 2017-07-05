@@ -50,7 +50,7 @@ of sample applications.
 Quite simply you have to make your sample applications and tutorials available via containers and Docker Compose.
 Docker Compose is a great tool for creating and maintaining multi-container environments, and when you package up 
 your applications as Docker Compose environments you've made it really easy for developers to consume them, even without
-minienv. Students that have Docker already installed can run your sample applications in minutes with a single command. 
+minienv. Developers that have Docker already installed can run your sample applications in minutes with a single command. 
 If you need to make those accessible via the web then that's where minienv comes in, and in most cases you will not be
 required to make any changes to your Docker Compose environments.
 
