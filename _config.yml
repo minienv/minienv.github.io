@@ -1,5 +1,5 @@
 theme: jekyll-theme-architect
 title: minienv
-description: Run mini Docker Compose environments on demand for web-based&#44; no-install developer tutorials
+description: Run mini Docker Compose environments for on-demand web-based&#44; no-install sample applications
 repository: minienv/minienv.github.io
 repository_link: https://github.com/minienv
